@@ -1,0 +1,10 @@
+theme = catppuccin-mocha
+background-opacity = 0.6
+window-decoration = true
+window-theme = ghostty
+window-titlebar-background = #212121
+window-titlebar-foreground = #fffef2
+shell-integration = zsh
+shell-integration-features = true
+font-family = FantasqueSansMono Nerd Font
+font-size = 10
